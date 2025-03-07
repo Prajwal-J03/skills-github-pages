@@ -6,3 +6,4 @@ title: Welcome to my blog
 
 This is a simple Github Page example guided by github skills.
 
+#### It is very simple and easy!
